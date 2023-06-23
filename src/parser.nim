@@ -18,7 +18,7 @@ nimuc - a Nim variant of original muc
 """
 
 const version = """
-version 0.0.1
+version 0.1.0
 """
 
 type
